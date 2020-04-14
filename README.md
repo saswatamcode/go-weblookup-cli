@@ -8,7 +8,7 @@
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 # Go WebLookup CLI
-A simple CLI written in Go which ets you query IPs, CNAMEs, MX records and name servers for a particular host.
+A simple CLI written in Go which lets you query IPs, CNAMEs, MX records and name servers for a particular host.
 
 ## Usage
 NAME:
